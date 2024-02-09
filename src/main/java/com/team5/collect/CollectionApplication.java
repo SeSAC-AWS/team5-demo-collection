@@ -1,4 +1,4 @@
-package com.team5.collection;
+package com.team5.collect;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

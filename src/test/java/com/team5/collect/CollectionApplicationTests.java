@@ -1,4 +1,4 @@
-package com.team5.collection;
+package com.team5.collect;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
